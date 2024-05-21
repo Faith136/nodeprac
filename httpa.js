@@ -12,11 +12,11 @@ http.createServer((req, res) => {
                 { id: 4, locationName: 'Kisumu' }
             ]
         }))
-    }
-    if (req.url == '/Food') {
+    } else
+    if (req.url == '/Foods') {
         res.setHeader('content-type', 'application/json');
         res.end(JSON.stringify({
-            Food: [
+            Foods: [
                 { id: 1, locationName: 'Breakfast' },
                 { id: 2, locationName: 'Lunch' },
                 { id: 3, locationName: 'Dinner' },

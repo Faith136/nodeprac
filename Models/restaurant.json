@@ -1,0 +1,51 @@
+[{
+        "id": "1",
+        "name": "KFC",
+        "city_name": "Nairobi",
+        "type": [{
+            "mealtype": "1",
+            "name": "breakfast"
+        }],
+        "Cuisine": [{
+            "cuisine": "1",
+            "name": "North Indian"
+        }]
+    },
+    {
+        "id": "2",
+        "name": "Klovo",
+        "city_name": "Naii",
+        "type": [{
+            "mealtype": "1",
+            "name": "Lunch"
+        }],
+        "Cuisine": [{
+            "cuisine": "1",
+            "name": "North Indian"
+        }]
+    }, {
+        "id": "3",
+        "name": "KFC",
+        "city_name": "Nabi",
+        "type": [{
+            "mealtype": "1",
+            "name": "breakfast"
+        }],
+        "Cuisine": [{
+            "cuisine": "1",
+            "name": "North Indian"
+        }]
+    }, {
+        "id": "4",
+        "name": "Krispy",
+        "city_name": "Narok",
+        "type": [{
+            "mealtype": "1",
+            "name": "breakfast"
+        }],
+        "Cuisine": [{
+            "cuisine": "1",
+            "name": "North Indian"
+        }]
+    }
+]
